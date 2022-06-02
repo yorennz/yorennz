@@ -1,3 +1,8 @@
+
+<h2 align="center">
+  Github Stats
+</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yorennz&show_icons=true&count_private=true&theme=great-gatsby" height="166px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yorennz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=great-gatsby" height="166px">
@@ -5,8 +10,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+</br></br>
+
 <h2>
-  Technical Competencies:
+  Technical Competencies
 </h2>
 
 <p>
@@ -16,7 +23,7 @@
 </p>
 
 <h2>
-  Tools:
+  Tools
 </h2>
 
 <p>
