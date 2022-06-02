@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yorennz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorennz&langs_count=8&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yorennz&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorennz&langs_count=8&theme=merko)
 
 ### Technical Competencies :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
